@@ -120,6 +120,6 @@ div#loginPage {
     linear-gradient(to bottom, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to left, rgba(0, 0, 0, 0.75), transparent 20%),
     linear-gradient(to right, rgba(0, 0, 0, 0.75), transparent 20%),
-    url(/images/movietime-mirror.jpg) !important;
+    url(https://vince0511.github.io/jf-custom/images/movietime-mirror.jpg) !important;
   background-size: cover !important;
 }
