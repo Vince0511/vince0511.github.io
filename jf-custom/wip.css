@@ -76,3 +76,5 @@
 #loginPage {
   background: url("images/movietime-mirror.jpg") no-repeat;
 }
+#loginPage form {max-width: 22em;
+}
