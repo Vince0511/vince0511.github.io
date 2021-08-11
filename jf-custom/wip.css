@@ -79,12 +79,12 @@ div#loginPage {
 
 #loginPage h1::after {
   /* content: "Sign In"; */
-  font-family: 'Poppins'
+  font-family: 'Poppins';
   font-size: 32px;
 }
 
 #loginPage h1 {
-  font-family: 'Poppins'
+  font-family: 'Poppins';
   font-weight: 700;
   font-size: 0;
   margin-bottom: 21.44px;
