@@ -79,8 +79,9 @@ div#loginPage {
 
 #loginPage h1::after {
   content: "Aanmelden";
+  text-align: center;
   font-family: 'Poppins'; !important;
-  font-size: 24px;
+  font-size: 32px;
 }
 
 #loginPage h1 {
@@ -106,7 +107,7 @@ div#loginPage {
   border-radius: 18px;
 }
 
-@media all and (max-width: 100em) and (orientation: portrait) {
+@media all and (max-width: 75em) and (orientation: portrait) {
   #loginPage .padded-left.padded-right.padded-bottom-page {
     margin-top: 0 !important;
     width: -webkit-fill-available !important;
