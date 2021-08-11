@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Vince0511.github.io
 
-You can use the [editor on GitHub](https://github.com/Vince0511/vince0511.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There is nothing to see here!
 
 ### Markdown
 
